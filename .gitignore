@@ -1,8 +1,10 @@
 #Ignore all .jpg files
 *.jpg
 
-#Ignore TensorFlow model fiels or datsets
-*.h5
-*.pb
-*.ckpt 
-*.tflite
+#Ignore all TensorFlow folders
+**/tensorflow/
+
+
+
+
+
