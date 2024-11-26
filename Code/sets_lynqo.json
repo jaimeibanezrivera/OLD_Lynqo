@@ -1,0 +1,71 @@
+{
+    "Set 1": {
+        "items": [
+            "horse",
+            "bicycle"
+        ],
+        "status": "complete"
+    },
+    "Set 2": {
+        "items": [
+            "Gillies_Toothed_Dissector"
+        ],
+        "status": "incomplete"
+    },
+    "Set 3": {
+        "items": [
+            "Gillies_Toothed_Dissector",
+            "Ball_and_Socket_Towel_Clips"
+        ],
+        "status": "incomplete"
+    },
+    "Set 4": {
+        "items": [
+            "dog",
+            "cat"
+        ],
+        "status": "incomplete"
+    },
+    "Set 5": {
+        "items": [
+            "dog",
+            "cat"
+        ],
+        "status": "incomplete"
+    },
+    "Set 6": {
+        "items": [
+            "dog",
+            "cat"
+        ],
+        "status": "incomplete"
+    },
+    "Set 7": {
+        "items": [
+            "dog",
+            "cat"
+        ],
+        "status": "incomplete"
+    },
+    "Set 8": {
+        "items": [
+            "dog",
+            "cat"
+        ],
+        "status": "incomplete"
+    },
+    "Set 9": {
+        "items": [
+            "dog",
+            "cat"
+        ],
+        "status": "incomplete"
+    },
+    "Set 10": {
+        "items": [
+            "dog",
+            "cat"
+        ],
+        "status": "incomplete"
+    }
+}
