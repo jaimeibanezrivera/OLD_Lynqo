@@ -1,9 +1,9 @@
 #Ignore all .jpg files
 *.jpg
 
-#Ignore all TensorFlow folders
-**/tensorflow/
-
+#Ignore all Lib files
+lib/
+lib64/
 
 
 
